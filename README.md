@@ -1,7 +1,7 @@
-# Vultr
+# E waste app
 
-A new Flutter project.
+a project based on the e waste where it locates and also has option to pick up and reddem your e waste point
 
 ## Getting Started
 
-FlutterFlow projects are built to run on the Flutter _stable_ release.
+

@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "942177704936",
+    "project_id": "vultr-p8r7jk",
+    "storage_bucket": "vultr-p8r7jk.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942177704936:android:d9f4a82dc4da8a35fce25d",
+        "android_client_info": {
+          "package_name": "com.mycompany.vultr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942177704936-q88adolu8k34gci3q2lp5dff8k67scp7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.vultr",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "942177704936-13jjb306m6faslts3109t35dt5ppulc9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByTMcua9xGiekUI0yVVh_GC94a4uIqDhM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942177704936-13jjb306m6faslts3109t35dt5ppulc9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "942177704936-mrk1m7q71b1nqg97581h3fu66amoo8d6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.vultr"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

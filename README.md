@@ -14,7 +14,7 @@ A project based on e-waste management, providing features to locate e-waste faci
 Test the app by downloading the APK directly:  
 [Download APK](https://www.mediafire.com/file/zx87weytvejmsdu/test.apk/file)
 
-### Project Link on FlutterFlow
+### Project Link on Flutter
 Access the project in FlutterFlow:  
 [Flutter Project Link](https://app.flutterflow.io/project/vultr-p8r7jk)
 

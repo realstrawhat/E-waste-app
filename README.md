@@ -20,7 +20,7 @@ Access the project in FlutterFlow:
 
 ## Deployment
 
-### Deploy from FlutterFlow
+### Deploy from Flutter
 1. Open the project on FlutterFlow.
 2. Configure Firebase if required.
 3. Deploy to web under **Settings & Integrations > Deployment**.
